@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using CyberSite.Models;
-
+Best site for learn hacking for scratch 
 namespace CyberSite.Controllers
 {
     public class HomeController : Controller
